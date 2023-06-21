@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @bobirdy
+- 👀 I’m interested in networking, SQL, python, AI, and virtual machines
+- 🌱 I’m currently learning Computer Information Systems
+- 📫 How to reach me on discord ch7010
